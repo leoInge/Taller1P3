@@ -1,3 +1,0 @@
-C:/Users/leona/Downloads/TallerC/cmake-build-debug/CMakeFiles/TallerC.dir
-C:/Users/leona/Downloads/TallerC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/leona/Downloads/TallerC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
